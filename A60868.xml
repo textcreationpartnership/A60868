@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some testimonies concerning the life and death of Hugh Tickell as also his convincement, travels, sufferings, and service for the Lord and His eternal truth ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60868</idno>
+            <idno type="STC">Wing S4622</idno>
+            <idno type="STC">ESTC R27143</idno>
+            <idno type="EEBO-CITATION">09677216</idno>
+            <idno type="OCLC">ocm 09677216</idno>
+            <idno type="VID">43956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43956)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1341:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some testimonies concerning the life and death of Hugh Tickell as also his convincement, travels, sufferings, and service for the Lord and His eternal truth ...</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tickell, Hugh.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43956:1" rendition="simple:additions"/>
+            <p>SOME TESTIMONIES Concerning the Life and Death OF HUGH TICKELL; AS ALSO His Convincement, Travels, Sufferings and Service for the Lord, and his Eternal Truth.</p>
+            <p>Which is a Teſtimony,
+<list>
+                  <item>I. To the Name of the Righteous, that ſhall be had in Everlaſting Remembrance.</item>
+                  <item>II. For encouraging and ſtrengthening the Babes in the Truth, to follow the Example of their faithful Elders.</item>
+                  <item>III. For Information and Exhortation of thoſe that deſire to know the Truth, and the way to <hi>Zion,</hi> that they may die the Death of the Righteous, and their latter End be like his.</item>
+               </list>
+            </p>
+            <p>
+               <hi>For, mark the End of the <g ref="char:V">Ʋ</g>pright Man, for the End of that Man is Peace.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for Thomas Northcott, in <hi>George-Yard,</hi> in <hi>Lombard-street,</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb n="1" facs="tcp:43956:2"/>
+            <head>The Teſtimony of <hi>Dorothy Tickell,</hi> Concer<g ref="char:EOLhyphen"/>ning her Dear Husband <hi>Hugh Tickell.</hi>
+            </head>
+            <p>I Being his Wife about twenty ſix years, do give forth my Teſtimony to all People, what I ſaw, and did believe of him in the uprightneſs of my heart, deſiring to keep my Peace with my God in what I do, knowing I muſt give an Account of words, and deeds done in the Body.</p>
+            <p>Firſt, I believe he loved the Lord his God with all his heart, who made him a partaker of that Love which is Univerſal; wherein he had good Will to all, and a true Love to them, in whoſe hearts he ſaw the fear of the Lord, obſerving that bleſſed Rule, As you would that Men ſhould do to you, even ſo do you to them.—He let his yea, be yea, and his nay, nay. —And I often obſerved his Love to Enemies, he loving the Lord Jeſus Chriſt, kept his ſayings, and did his Command<g ref="char:EOLhyphen"/>ments with Joy.—And though his Sufferings were many, and that of divers ſorts, yet he kept the Word of God's Patience, which kept him in the Hour of Temptation, and carried him more eaſily through them: The Yoak of his Lord, that he had taken up, did become more eaſie, and his Burthen light.</p>
+            <p>As to his Impriſonment, about the Year 1664. He, with four Friends more, was caſt into Priſon in <hi>Carlile</hi> Goal, by <hi>Henry Marſhall</hi> Prieſt of <hi>Croſtwhait:</hi> And though he did detain his Body in Priſon, he took Tithes of his Land, and kept him Priſoner nigh three Years.—This ſaid <hi>Henry Mar<g ref="char:EOLhyphen"/>ſhall</hi> Prieſt, afterward falling down a Pair of Stairs, broke his Scull, upon which he died.</p>
+            <p>And again, in my dear Husband's Old Age, when he was about Threeſcore and Eight, he was impriſoned by <hi>Richard Lowry,</hi> another Prieſt of the ſaid <hi>Crostwhait,</hi> who kept him Priſoner about nine Months; a part of it being cold Winter, and a cold naſty Place, not fit for ſuch honeſt Men; beſides a weak Priſoner did lye by the Fire, that my Husband and the
+<pb n="2" facs="tcp:43956:3"/>reſt of the Priſoners could ſcarce come at it; —And this ſaid Prieſt <hi>Richard Lowry</hi> was ſuddenly ſtricken, and had the Uſe of one ſide of his Tongue, and Underſtanding much taken from him, and hath ſo continued a long Time, and yet continues a remarkable Judgment.</p>
+            <p>This my dear Husband ſuffered, beſides much ſpoiling of Goods for the Teſtimony of Truth.—And before he came laſt out of Priſon, his Diſtemper of Body began, that increaſed upon him till he died. And after he came home, feeling his Body begin to weaken, he ſet his Houſe in order; And though his Diſtemper lay much in his Head, that it might have weak<g ref="char:EOLhyphen"/>ned his Memory; yet I believe none ever ſaw any appearance of frowardneſs, but the Lamb's Nature, which is Innocency and Love, did always appear in him, this gave me Comfort in heavineſs. —And when I told him of his Continuance ſtill in patience; he told me, he had laid thoſe Exerciſes in the Bal<g ref="char:EOLhyphen"/>lance, and felt the Love of God in them.</p>
+            <p>Before his Death, he was in much Brokenneſs of Spirit, tenderly taking leave of Friends, and Neighbours, as having a ſenſe that his Departure drew near; And upon his dying Bed, his Deportment was ſo ſweet, that ſeveral were affected therewith. —And I have a certain Evidence ſealed upon my Spirit,
+<q>
+                  <l>Concerning my dear Husband, who is gone to Rest,</l>
+                  <l>He dyed in the Lord, and is for ever bleſt:</l>
+                  <l>He being as a Lamb ſo innocent,</l>
+                  <l>In every Remembrance I have Content.</l>
+                  <l>And though the Mortal, that be laid in Grave,</l>
+                  <l>Yet the Immortal, certainly I have;</l>
+                  <l>Deſiring when this Body is laid down,</l>
+                  <l>I may partake of that Eternal Crown.</l>
+                  <l>What ſhall I ſay? God's Favour doth exceed</l>
+                  <l>To his Hand maid, even as ſhe stands in need.</l>
+                  <l>What have I now more to do here,</l>
+                  <l>But my God to love and fear?</l>
+                  <l>And do nothing, that may grieve his Spirit,</l>
+                  <l>That Eternal Life, I may inherit.</l>
+                  <l>For what is all the World to me,</l>
+                  <l>In Compariſon of Eternity?</l>
+               </q>
+            </p>
+            <pb n="3" facs="tcp:43956:3"/>
+            <p>And now the Day of the Lord hath been great, and the Work of it, which hath dained to many, that ſat in Darkneſs and in the ſhadow of Death; The Lord hath cauſed Light to ſpring up. —And now the true Light ſhineth in many, which hath given us the Knowledge of God, in the Face of Jeſus Chriſt; And he hath made his People willing in the Day of his Power; he hath cauſed the Trumpet to be ſounded in <hi>Zi<g ref="char:EOLhyphen"/>on,</hi> and an Alarum to be beat in his Holy Mountain, and there were Earthquakes in divers Places, and many Faces gathered Paleneſs, for the Day was great to a Remnant, it was like the Day of <hi>Jacob</hi>'s Trouble. — But after thoſe things many did flow together, to the Goodneſs of the Lord, ſaying, <hi>Let us go up to the Houſe of the God of</hi> Jacob, <hi>and there will he teach us of his ways, and we will walk in his pathes.</hi> —And now the Mountain of the Lord's Houſe is a top of all the Mountains, and high Hills, <hi>Glory to the Lord for ever, and ever more,</hi> who hath taken to himſelf his great Power, and is come to reign amongſt his People.</p>
+            <p>And now the way of the Lord is become delightful, and all his paths are pleaſant, and the wayfaring Man, though a Fool, may walk therein, and not err; —Go on O Lord and proſper, ride on, becauſe of thy Strength, and Holineſs, conquering and to conquer; bring yet more Sons from far, and Daughters from the Ends of the Earth; that they may ſit down together with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> in that Reſt which thou haſt prepared for them.</p>
+            <p>And now dear Friends, receive my Mite into your Treaſury; ſtrive not ſo much for earthly Poſſeſſions, for your Children, as to inſtruct them in the right way of the Lord.—What Father ſo unnatural, but he would have his Children wiſe? becauſe a wiſe Son maketh a glad Father: So teach them the fear of the Lord, that is, the beginning of Wiſdom; teach them to depart from Iniquity, that is, the good Underſtanding, ſtill having your Eyes <hi>Sion</hi>-ward; forget her not, ſhe is the City of our Solemnity.— Forget not the day, when we were ſeeking the Lord, and that from Mountain to Hill; inquiring of the Watchmen of the Night, each one in particular, ſaying, <hi>Saw ye not him whom my Soul loveth?</hi> But they had not ſeen him, nor known him, neither could they tell us any thing of him; we paſſed but a little from them, until we found him whom our Souls loved: O then, how
+<pb n="4" facs="tcp:43956:4"/>we held him and would not let him go! how willing were we to part with all other things for him!</p>
+            <p>O then indeed was he become the Chiefeſt of ten Thouſand to us: And now to thee, thou Antient of days, be Hallelujah, and Thankſgiving, Honour, and Glory, and Praiſe; and again Hallelujah, for the Lord God Omnipotent Reigneth.</p>
+            <closer>
+               <signed>Dorothy Tickell.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Something by way of Teſtimony concerning our dear Friend <hi>Hugh Tickell</hi> of <hi>Portinſcal,</hi> near <hi>Keſwick</hi> in <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> Deceaſed.</head>
+            <p>HE was convinced of the Lord's bleſſed Truth, towards the latter End of the Year, 1653. — And after that he was convinced, and had his Underſtanding opened, he became very ſerviceable in his place, and was freely, and willingly gi<g ref="char:EOLhyphen"/>ven up to do, or ſuffer for the Lord's bleſſed Truth, which the Lord was pleaſed to make him a Partaker of with many more: And as he grew up in the Truth, he became more and more diligent, in meeting with, and amongſt the People of God cal<g ref="char:EOLhyphen"/>led Quakers; And not only ſo, but freely and willingly offer<g ref="char:EOLhyphen"/>ed up his Houſe for a Meeting-houſe, for all that ſought after the Lord, and his Truth, for many Years.—And the Lord was alſo pleaſed to endue him with a Spirit of diſcerning, inſomuch that he became ſerviceable to the Lord, and his People, and a help and ſtrength to thoſe that were weak, and ready to give a word of Advice, and Counſel, both publickly and privately, when at any time in the Wiſdom of God, he ſaw it a Service.</p>
+            <p>Likewiſe he was drawn forth to travel to viſit ſome Friends, both in the Weſt of <hi>England,</hi> and in <hi>Scotland.</hi> —And as to his ſufferings when called thereunto; He was a Man that did bear a faithful Teſtimony, both in ſuffering the ſpoiling of his Goods, and Impriſonment of his Body, (as witneſs) he was committed to Priſon by one <hi>Henry Marſhall</hi> Prieſt of <hi>Crost<g ref="char:EOLhyphen"/>whait;</hi> becauſe for Conſcience-ſake, he could not pay him Tithes, where he remained about three Years in <hi>Carlile</hi> Goal.
+<pb n="5" facs="tcp:43956:4"/>And being freed, he was afterwards again committed to the ſaid Priſon by <hi>Richard Lowrey,</hi> another Prieſt of the ſaid <hi>Croſt<g ref="char:EOLhyphen"/>whait,</hi> becauſe he could not pay him Tithes, where he remain<g ref="char:EOLhyphen"/>ed ſome time, until Providence ordered his enlargement: All which ſuffering he patiently did bear, and willingly endured for the Teſtimony of Jeſus, and of a good Conſcience. And thus he continued bearing his Teſtimony in faithfulneſs, in do<g ref="char:EOLhyphen"/>ing and ſuffering, until weakneſs of Body came upon him, which in the Lord's appointed time, comes upon all men, and ſo fi<g ref="char:EOLhyphen"/>niſhed his Courſe, and laid down his Body in the Year, 1680.</p>
+            <closer>
+               <dateline>From our Mens Meeting, to which the ſaid <hi>Hugh Tickell</hi> did belong, <date>the <hi>25th.</hi> Day of the <hi>12th.</hi> Month, 1689/90.</date>
+               </dateline>
+               <signed>Subſcribed, by
+<list>
+                     <item>
+                        <hi>John Tiffin,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Laythes,</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Head,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Scott,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Fell,</hi>
+                     </item>
+                     <item>
+                        <hi>George Peel.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The Teſtimony of <hi>Thomas Laythes,</hi> Concerning <hi>Hugh Tickell.</hi>
+            </head>
+            <p>AS for our dear deceaſed Friend <hi>Hugh Tickell,</hi> he was one that I had a knowledge of, and acquaintance with, all-moſt from my Childhood. — For when I was a Boy at School, we were both tabled in one Houſe, and for ſeveral Years; and in all that time, I never heard nor knew, as I remember, but that he lived and walked as an honeſt Man amongſt Men. And for the time of his Convincement of God's Eternal Truth, he was ſome Years before me convinced; ſo that other Ancient Friends can give a more timely Teſtimony herein than I can do, being converſant with him; yet this I know, and have to ſay for him, that he was one that did endeavour my Convince<g ref="char:EOLhyphen"/>ment, as much, if not more than any other, both by word and writing. —But as I have ſometime ſaid, it was the Lord alone that did perſwade my heart; to him be the Praiſe and Glory for ever, <hi>Amen.</hi>
+            </p>
+            <p>And after I came to own the way, and Truth of God, I had a clear Senſe of his Spirit, we being both of one Meeting for above twenty and ſix Years time, and this is my Teſtimony
+<pb n="6" facs="tcp:43956:5"/>for my Friend: He was of a deep weighty ſolid Spirit, and had a good Underſtanding, and diſcerning in the things of God: And when he ſpoke thereof in our little Meeting, (to which he was a great Strength,) it was much in the awe, dread, and fear of the Lord; and often in much Brokenneſs, and ten<g ref="char:EOLhyphen"/>derneſs of Spirit, as I am a living Witneſs of.</p>
+            <p>He was alſo a great ſufferer in his day, for bearing a faith<g ref="char:EOLhyphen"/>ful Teſtimony to the Truth, and againſt Tithes. —And ſuch was his Love to God, and his Truth, that I do believe, he could have laid down his Life, and ſealed his Teſtimony with his Blood, if he had been called thereunto.</p>
+            <p>And towards the latter part of his time, and in his old Age being above 70 Years, he grew weak, and infirm of Body; —and near the time of his departure out of the Body, for I was much with him then both day and night, and when he could but utter few words, yet he named me, and I felt a near tender Senſe upon him of that Love, and Unity we often had together in the Spirit of Truth.</p>
+            <closer>
+               <signed>Thomas Laythes.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The Teſtimony of <hi>Thomas Dockrey,</hi> Concerning our dear Friend <hi>Hugh Tickell</hi> of <hi>Portinſcal,</hi> who was born in <hi>Thorntwhait,</hi> in the Pariſh of <hi>Croſtwhait,</hi> and County of <hi>Cumberland,</hi> —who in his younger Years, for Religion, had deſires to be of the beſt way, and about the fortieth Year of his Age, and the latter End of the Year, <hi>1653.</hi> was convinced of God's Everlaſting Truth, and way, which is caſt up, and now made known to many People in this Day of God's glorious Power, Light, and Life, that is dawned and broken forth in this Nation, and many other Nations. Glory and Praiſe to God for evermore.</head>
+            <p>FOR in the Year, 1653. <hi>G. F.</hi> a Miniſter in the Spirit, and Power of God, and of the Everlaſting Goſpel, coming in<g ref="char:EOLhyphen"/>to <hi>Cumberland;</hi> and <hi>Hugh Tickell</hi> going to ſome Meetings where <hi>G. F.</hi> was; he was convinced and ſatisfied of our Re<g ref="char:EOLhyphen"/>ligion, Way, Truth, Faith, and Worſhip, <hi>&amp;c.</hi> and ſo joyned with the People of God, who in ſcorn were firſt called Quakers in <hi>Darbyſhire,</hi> about the Year, 1650. and continued with them
+<pb n="7" facs="tcp:43956:5"/>till his Deceaſe, which was above thirty Years, being Aged above Seventy.</p>
+            <p>So he owned the Truth above 30 Years, and never did ſhrink, faint, nor fly the Croſs of Chriſt, but ſtood noble and valiant for God and his Eternal Truth, and did bear a good and faithful Teſtimony to the ſame, in the place where God had ſet him. —For I had a true and certain Knowledge of him above thirty Years; and I lived with him above ſeven Years; who after he owned the Truth, had a good Meaſure of the Spirit of the Lord poured forth upon him, and a true know<g ref="char:EOLhyphen"/>ledge, and feeling of the Power of God, and of his Love, and Preſence; wherein he had large openings, and a deep diſ<g ref="char:EOLhyphen"/>cerning of the things of God, and was of a grave, ſober De<g ref="char:EOLhyphen"/>portment towards all, and of an honeſt Life, and Converſati<g ref="char:EOLhyphen"/>on, which adorned his Profeſſion of the ever bleſſed Truth: Alſo, he was of a ſound Mind, and Judgment, ſtedfaſt in the Faith, endued with ſpiritual Knowledge and Wiſdom; —And could have given good Advice, and Counſel, and Exhortation in Divine things; he was faithful, and loved Faithfulneſs in all that profeſſed the Truth, and both loved and ſought the Peace and Unity and Proſperity of the Church. He was a Man that God bleſſed both in Spirituals, and Temporals, and as the Apoſtle ſaith, <hi>Be not forgetful to entertain Strangers;</hi> for ſome have entertained Angels unawares, and do good unto all, but eſpecially unto the Houſhold of Faith; ſo he was ready to enter<g ref="char:EOLhyphen"/>tain and to do good, and to have Meetings at his Houſe, when there were but few in that part. — And was a patient Sufferer both in Body and Goods, for Truth and Righteouſneſs ſake; he was zealous and fervent in Spirit, and Mind, holding his In<g ref="char:EOLhyphen"/>tegrity; I had dear Unity with him, and loved him in that which will never change, nor die, but was, and is the Joy, Life, and Strength of God's People throughout all Generations, to<g ref="char:EOLhyphen"/>wit, the Life and Power. Holy, glorious Praiſes to the glori<g ref="char:EOLhyphen"/>ous God: For he had the Gift of found Judgment and Know<g ref="char:EOLhyphen"/>ledge in Divine Spiritual things, and I could have opened my heart to him the rein.</p>
+            <p>And likewiſe he did bear a living faithful Teſtimony, both againſt the Prieſts at Steeple-houſes, and in the Markets to the People, and had a tender incouraging Teſtimony in Meetings. —And about the Year, 1696. was moved of the Lord to go
+<pb n="8" facs="tcp:43956:6"/>into <hi>Scotland,</hi> to <hi>Duglas, Heads, Hambleton, Glaſcow,</hi> and <hi>E<g ref="char:EOLhyphen"/>dinburgh, &amp;c.</hi> And had a good Service for the Lord, and his Truth, as I truly underſtood when I went amongſt them there afterwards.</p>
+            <p>And as a Teſtimony of his Love to God, his Truth, and People, he manifeſted it both in his Life, and towards his lat<g ref="char:EOLhyphen"/>ter End; — and now he being gone the way of all the Earth, I believe it is well with him, as to his Eternal Eſtate, and that his Soul is at reſt, and bleſſedneſs with the Eternal God; <hi>For bleſſed are the Dead which dye in the Lord, they reſt from their La<g ref="char:EOLhyphen"/>bour and their Works follow them;</hi> — And I pray God, that we who yet remain in the Body, may ſo finiſh our Courſe in the Truth, and keep the Faith, that we may end our days in Peace with God, and have an Eternal Inheritance amongſt the ſan<g ref="char:EOLhyphen"/>ctified. —For the Eternal Righteous God is juſt, to whom all muſt give an Account, and be rewarded according to their Deeds done in the Body, be they good, or evil; — And, O that many People would conſider this, and turn to God's Grace and Truth, that comes by Jeſus Chriſt, and to the Spirit of God, that never deceived any People, nor never will, that thereby they may be lead, inſtructed, and taught to forſake their evil Way, and turn to Righteouſneſs, that they might live, and that God might be glorified, through Jeſus Chriſt, to whom with God the Father, be Honour, and Praiſe, for<g ref="char:EOLhyphen"/>ever.</p>
+            <closer>
+               <signed>Thomas Dockrey.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The Teſtimony of <hi>M. Fox,</hi> Concerning <hi>Hugh Tickell.</hi>
+            </head>
+            <p>THIS I can teſtifie for <hi>Hugh Tickell,</hi> he was a dear and faithful Servant of the Lord from the beginning, and one that the Truth had a great Work and Operation upon; ſo that he was brought very low and tender, and zealous for the Lord and his Truth; ſo that he bore a true and faith<g ref="char:EOLhyphen"/>ful Teſtimony againſt the Prieſts, and the Spirit of the World, and was very active both in ſpeaking and writing for
+<pb n="9" facs="tcp:43956:6"/>the Teſtimony of Truth to my knowledge; he has come ma<g ref="char:EOLhyphen"/>ny times to <hi>Swarthmoore</hi> in true Tenderneſs and Openneſs of Spirit, and he was a true Liver unto God, unto his latter End, though he was convinced at the firſt Appearance of Truth in thoſe parts, and bore a faithful Teſtimony for the Lord in his Day, in ſerving and in ſuffering; he was many times caſt into Priſon, where he remained years together, ſo that he was wanting in no part of the Truths Service; he was a true and faithful Man to God and his Truth all his Days, and lived in the fear of the Lord, in Tenderneſs and in Humility, and in Brokenneſs of Spirit, and in great Love and Unity with his Wife and Family, and was a good Ex<g ref="char:EOLhyphen"/>ample to all, and in his latter End teſtified his Love and Faith<g ref="char:EOLhyphen"/>fulneſs to the Lord and his Truth, and left the Evidence of his Love to Friends, and the Truth, and hath now left this Tranſitory World, and is entred into his Everlaſting Inheri<g ref="char:EOLhyphen"/>tance, where he lives in Eternal Love; Praiſes to the Lord to all Eternity.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the <hi>6th.</hi> the <hi>4th.</hi> Month, 90.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>G. F</hi>'s Teſtimony concerning <hi>Hugh Tickell.</hi>
+            </head>
+            <p>AFter <hi>Hugh Tickell</hi> our dear Friend, and Brother in the Lord, had believed in the Light, the Life in Chriſt, and ſo became a Child of Light, and of the Day of Chriſt; he came both to know and hear Chriſt the great Prophet, that God had raiſed up in the New Teſtament, like unto <hi>Moſes</hi> in the Old Teſtament, <hi>&amp;c.</hi> and to follow Chriſt his Shepherd, and hear his Voice, and to be one of the Sheep of his Paſture, which he had laid down his Life for, and then could follow the Hirelings no longer, nor put in their Mouths, and would not let <hi>Balaam</hi>'s Prieſt ride upon him, as Old <hi>Balaam</hi> did upon his Aſs for his Wages of Unrighteouſneſs, and would not follow him in his Errours, but followed Chriſt, who ſaid, <hi>freely you have received, freely give,</hi> and followed his Miniſters who kept the Goſpel without Charge, and
+<pb n="10" facs="tcp:43956:7"/>God opened the Mouth of this <hi>Hugh Tickell</hi> to reprove <hi>Balaam</hi>'s Prieſts for their Errours; and for his not giving them their Wages of Unrighteouſneſs, you may ſee in this Book, how they perſecuted and impriſoned him, and what became of his Perſecutors, and what was their End. But he being ſetled upon Chriſt the heavenly Rock and Foundation, all the Storms and Tempeſts, and the Heat of the perſecuting Sun could not move him, he being of a meek, quiet, peaceable, gentle Spirit, and of a good Life, and Converſation; I had known him long, and do believe, that he died in the Lord, and is bleſſed, and is at reſt from his Labours.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the <hi>6th.</hi> the <hi>4th.</hi> Month, 90.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43956:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
